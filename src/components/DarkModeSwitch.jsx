@@ -6,6 +6,7 @@ import {useTheme} from 'next-themes'
 
 export default function DarkModeSwitch(){
     const {theme, setTheme, systemTheme} = useTheme()
+    
     const currentTheme = theme === 'system' ? systemTheme : theme
     console.log(currentTheme)
     return (
