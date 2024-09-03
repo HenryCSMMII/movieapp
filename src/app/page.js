@@ -9,7 +9,7 @@ export default async function Home({ searchParams }) {
   const endpoint = genre === 'fetchTopRated' ? '/movie/top_rated' : '/trending/all/week';
   const url = `https://api.themoviedb.org/3${endpoint}?api_key=${API_KEY}&language=en-US&page=1`;
 
-  try {
+  //try {
     // Realiza la solicitud a la API
     const res = await fetch(url, {
       method: 'GET',
@@ -36,8 +36,8 @@ export default async function Home({ searchParams }) {
         <Results results={data.results} />
       </div>
     );
-  } catch (error) {
-    console.error('Error fetching data:', error.message);
-    // Puedes manejar el error y mostrar un mensaje en la UI si es necesario
-  }
+  // } catch (error) {
+  //   console.error('Error fetching data:', error.message);
+  //   // Puedes manejar el error y mostrar un mensaje en la UI si es necesario
+  // }
 }
