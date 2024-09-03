@@ -15,7 +15,8 @@ export default async function Home({ searchParams }) {
       method: 'GET',
       headers: {
         'Accept': 'application/json' // No es necesario agregar 'Authorization' para API Key
-      }
+      },
+      next: {revalidate: 1000},
     });
 
     console.log('Response status:', res.status);

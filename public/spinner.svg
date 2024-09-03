@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" width="204" height="204" style="shape-rendering: auto; display: block; background: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink"><g><g transform="translate(77,50)">
+<g transform="rotate(0)">
+<circle fill-opacity="1" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-1.4204545454545454s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-1.4204545454545454s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(72.71384538644189,64.59730207130113)">
+<g transform="rotate(32.72727272727273)">
+<circle fill-opacity="0.9090909090909091" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-1.2784090909090908s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-1.2784090909090908s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(61.21620535105093,74.560063874572)">
+<g transform="rotate(65.45454545454545)">
+<circle fill-opacity="0.8181818181818182" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-1.1363636363636365s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-1.1363636363636365s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(46.1574993666213,76.72517893078518)">
+<g transform="rotate(98.18181818181817)">
+<circle fill-opacity="0.7272727272727273" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.9943181818181818s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.9943181818181818s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(32.31876018347731,70.40523850756497)">
+<g transform="rotate(130.9090909090909)">
+<circle fill-opacity="0.6363636363636364" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.8522727272727273s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.8522727272727273s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(24.093689712408572,57.6067790347186)">
+<g transform="rotate(163.63636363636365)">
+<circle fill-opacity="0.5454545454545454" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.7102272727272727s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.7102272727272727s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(24.09368971240857,42.39322096528141)">
+<g transform="rotate(196.36363636363635)">
+<circle fill-opacity="0.45454545454545453" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.5681818181818182s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.5681818181818182s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(32.318760183477295,29.59476149243503)">
+<g transform="rotate(229.0909090909091)">
+<circle fill-opacity="0.36363636363636365" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.42613636363636365s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.42613636363636365s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(46.1574993666213,23.274821069214816)">
+<g transform="rotate(261.8181818181818)">
+<circle fill-opacity="0.2727272727272727" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.2840909090909091s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.2840909090909091s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(61.216205351050924,25.439936125427998)">
+<g transform="rotate(294.54545454545456)">
+<circle fill-opacity="0.18181818181818182" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="-0.14204545454545456s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="-0.14204545454545456s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g transform="translate(72.71384538644189,35.40269792869887)">
+<g transform="rotate(327.2727272727273)">
+<circle fill-opacity="0.09090909090909091" fill="#e8b64a" r="5" cy="0" cx="0">
+  <animateTransform repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" values="1.46 1.46;1 1" begin="0s" type="scale" attributeName="transform"></animateTransform>
+  <animate begin="0s" values="1;0" repeatCount="indefinite" dur="1.5625s" keyTimes="0;1" attributeName="fill-opacity"></animate>
+</circle>
+</g>
+</g><g></g></g><!-- [ldio] generated by https://loading.io --></svg>
